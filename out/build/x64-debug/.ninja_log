@@ -1,7 +1,0 @@
-# ninja log v6
-4	929	8156119845418312	CMakeFiles/is_lab3.dir/is_lab3.cpp.obj	56ea7750988d45ac
-11	996	8156119845488321	CMakeFiles/is_lab3.dir/src/GameState.cpp.obj	6014dacb6bcdc5a4
-996	1366	8156119855339194	is_lab3.exe	4fc35190b8324031
-15	608	8156121171491475	CMakeFiles/is_lab3.dir/is_lab3.cpp.obj	56ea7750988d45ac
-22	629	8156121171561495	CMakeFiles/is_lab3.dir/src/GameState.cpp.obj	6014dacb6bcdc5a4
-629	857	8156121177632861	is_lab3.exe	4fc35190b8324031

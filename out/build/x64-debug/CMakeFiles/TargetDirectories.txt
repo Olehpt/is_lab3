@@ -1,3 +1,0 @@
-C:/Users/User/Desktop/is_lab3/out/build/x64-debug/CMakeFiles/is_lab3.dir
-C:/Users/User/Desktop/is_lab3/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Desktop/is_lab3/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
